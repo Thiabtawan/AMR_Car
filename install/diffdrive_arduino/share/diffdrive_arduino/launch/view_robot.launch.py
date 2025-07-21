@@ -1,0 +1,1 @@
+/home/senseri/ros2_ws/src/diffdrive_arduino-humble/description/launch/view_robot.launch.py

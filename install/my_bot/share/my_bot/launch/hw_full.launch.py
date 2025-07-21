@@ -1,0 +1,1 @@
+/home/senseri/ros2_ws/src/my_bot/launch/hw_full.launch.py
